@@ -1,4 +1,4 @@
-diagonal-traversing-matrix
+diagonal-traversal-matrix
 ==========================
 
 Traversing a NxM matrix using diagonals.
